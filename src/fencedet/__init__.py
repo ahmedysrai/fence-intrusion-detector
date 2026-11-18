@@ -1,0 +1,1 @@
+"""Fence vibration intrusion detection."""
