@@ -3,4 +3,6 @@
 Detect climbing and cutting on a perimeter fence from a single accelerometer,
 and tell them apart from wind, rain and passing traffic.
 
-Early days. Simulation and host tests only, nothing has run on hardware.
+So far there is only the windowing code and its tests. Everything here is
+tested on a PC with synthetic signals; none of it has run on a real fence or
+microcontroller.
